@@ -15,4 +15,4 @@ Link do tutorial [aqui](https://learn.microsoft.com/pt-br/visualstudio/get-start
 
 ---
 
-_Desenvolvido com_ :coffee: por _**Carlos Matheus**_
+_Desenvolvido com_ :coffee: _por **Carlos Matheus**_

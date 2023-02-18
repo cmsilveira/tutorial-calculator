@@ -1,0 +1,15 @@
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/tutorial-calculator
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/tutorial-calculator.deps.json
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/tutorial-calculator.runtimeconfig.json
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/tutorial-calculator.dll
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/ref/tutorial-calculator.dll
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/tutorial-calculator.pdb
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.csproj.AssemblyReference.cache
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.AssemblyInfoInputs.cache
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.AssemblyInfo.cs
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.dll
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/ref/tutorial-calculator.dll
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.pdb
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.genruntimeconfig.cache

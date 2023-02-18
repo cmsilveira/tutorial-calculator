@@ -20,9 +20,9 @@ namespace CalculatorApp.Models
                     break;
                 case "d":
                     // Ask the user to enter a non-zero divisor
-                    if (num1 != 0) result = num1 / num2;
+                    if (num2 != 0) result = num1 / num2;
                     break;
-                // Return texto for an incorrect option entry
+                // Return text for an incorrect option entry
                 default:
                     break;
                 // end case

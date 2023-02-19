@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "u0ldPht1GneedOVjjBNTHdNG/DLAXecrjXJxaQKph9lTrqWN8ki8aStSKD3gIuP3FlLONcxqfHTjEv46XGT0xw==",
+  "dgSpecHash": "WPsV6PGEj1dJL97v5eZ2pO+iTMlBfm6R4cp8w84nWAgPmvpjmo5Hyypq3RF2L16NUYNtO2Kk8SeOibMJyNfqog==",
   "success": true,
   "projectFilePath": "/home/matheus/Projetos/tutorial-calculator/tutorial-calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/matheus/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

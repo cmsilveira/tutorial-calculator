@@ -13,3 +13,5 @@
 /home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/ref/tutorial-calculator.dll
 /home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.pdb
 /home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.genruntimeconfig.cache
+/home/matheus/Projetos/tutorial-calculator/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/matheus/Projetos/tutorial-calculator/obj/Debug/net6.0/tutorial-calculator.csproj.CopyComplete
